@@ -10,13 +10,10 @@
 }
 
 body {
-    background-color: #cad3d3;
-}
-
-body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #cad3d3;
 }
 
 .container {
